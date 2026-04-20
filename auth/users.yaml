@@ -1,0 +1,21 @@
+users:
+  Shivam:
+    name: Shakti
+    password: $2b$12$N1kLdG97rB9Mgx336eFhjeRAyggbCff3K8cylQsD.xau5rs/HKH3K
+    role: CEO
+  analyst:
+    name: Alex Patel
+    password: $2b$12$jJfcFSLzF8L6cMyyjQYuXueDQHMDwyr3Kg4k1DjMlQ0AGILTcsqsW
+    role: Analyst
+  ceo:
+    name: Casey Owens
+    password: $2b$12$AJcnvtXsEJR3sEtr.OKyH.WgsG3C4zTri5d8Kw0m.BFtqQ9sg3Ro2
+    role: CEO
+  manager:
+    name: Morgan Lee
+    password: $2b$12$jrni/DfzH8/O/nPXYVi0xutV707a4lrNu0n7DF7TVvxVrIDK/w2r2
+    role: Manager
+  shivam:
+    name: Shakti
+    password: $2b$12$/53GlkxDXC1xg7xkN7GpPO4hffDhid5IYYpW5tpZ/qJfiSB2SEJfO
+    role: CEO
