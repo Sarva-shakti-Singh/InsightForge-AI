@@ -126,12 +126,6 @@ export OPENAI_API_KEY="sk-..."
 export AI_MODEL="gpt-4o-mini"
 ```
 
-**Option B — Lovable AI Gateway** (OpenAI-compatible)
-```bash
-export LOVABLE_API_KEY="..."
-export AI_BASE_URL="https://ai.gateway.lovable.dev/v1"
-export AI_MODEL="google/gemini-2.5-flash"
-```
 
 If no key is configured, all agents transparently fall back to the built-in
 heuristic engine — the app stays fully functional.
@@ -177,3 +171,5 @@ Available from the sidebar → **Memory**.
 ## 📝 License
 
 MIT — do whatever you want, no warranty.
+
+AUTHOR - SARVASHAKTI SINGH
