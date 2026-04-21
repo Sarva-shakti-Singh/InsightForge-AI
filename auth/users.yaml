@@ -1,8 +1,4 @@
 users:
-  Shivam:
-    name: Shakti
-    password: $2b$12$N1kLdG97rB9Mgx336eFhjeRAyggbCff3K8cylQsD.xau5rs/HKH3K
-    role: CEO
   analyst:
     name: Alex Patel
     password: $2b$12$jJfcFSLzF8L6cMyyjQYuXueDQHMDwyr3Kg4k1DjMlQ0AGILTcsqsW

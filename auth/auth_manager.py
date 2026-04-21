@@ -61,6 +61,7 @@ class AuthManager:
         if role not in ROLES:
             return False
         data = self._load()
+        username = username.lower().strip()
         if username in data["users"]:
             return False
         data["users"][username] = {
