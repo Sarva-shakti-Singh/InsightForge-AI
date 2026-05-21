@@ -164,7 +164,7 @@ Available from the sidebar → **Memory**.
 - Replace `auth/users.yaml` with a real DB (Postgres + SQLAlchemy ready).
 - Run behind HTTPS (e.g. Streamlit Community Cloud, Fly.io, or Nginx + Gunicorn-style proxy).
 - Set `STREAMLIT_SERVER_ENABLE_CORS=false` and use a proper auth proxy for SSO if needed.
-- Rotate `OPENAI_API_KEY` / `LOVABLE_API_KEY` via your secrets manager.
+- Rotate `OPENAI_API_KEY`  via your secrets manager.
 
 ---
 
