@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: insightforge-ai
+    env: python
+    region: oregon
+    repo: Sarva-shakti-Singh/InsightForge-AI
+    branch: master
+    plan: starter
+    buildCommand: pip install -r requirements.txt
+    startCommand: bash start.sh
+    envVars:
+      - key: OPENAI_API_KEY
+        value: ""
+      - key: GOOGLE_SERVICE_ACCOUNT_JSON
+        value: ""
